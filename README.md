@@ -44,19 +44,10 @@ A full-stack web application inspired by Airbnb, customized for managing and dis
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
+**Languages & Tools**
 
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,tailwind,mongodb" />
 </p>
 
 ---
